@@ -19,6 +19,6 @@ Level: 19<br>Simulation: Turkey/Kayseri
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=batuhanofficial&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=batuhanofficial&icon=0&color=0)](https://github.com/batuhanofficial)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
